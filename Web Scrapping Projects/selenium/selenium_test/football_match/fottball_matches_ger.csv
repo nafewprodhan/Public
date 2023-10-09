@@ -1,0 +1,73 @@
+date,team1,score,team2
+19-08-2023,Augsburg,4 - 4,M''gladbach
+27-08-2023,Bayern Munich,3 - 1,Augsburg
+02-09-2023,Augsburg,2 - 2,Bochum
+16-09-2023,RB Leipzig,? - ?,Augsburg
+18-08-2023,Werder Bremen,0 - 4,Bayern Munich
+27-08-2023,Bayern Munich,3 - 1,Augsburg
+02-09-2023,M''gladbach,1 - 2,Bayern Munich
+15-09-2023,Bayern Munich,? - ?,Leverkusen
+19-08-2023,Stuttgart,5 - 0,Bochum
+26-08-2023,Bochum,1 - 1,Dortmund
+02-09-2023,Augsburg,2 - 2,Bochum
+16-09-2023,Bochum,? - ?,Ein Frankfurt
+20-08-2023,Ein Frankfurt,1 - 0,Darmstadt
+26-08-2023,Darmstadt,1 - 4,Union Berlin
+02-09-2023,Leverkusen,5 - 1,Darmstadt
+17-09-2023,Darmstadt,? - ?,M''gladbach
+19-08-2023,Dortmund,1 - 0,FC Koln
+26-08-2023,Bochum,1 - 1,Dortmund
+01-09-2023,Dortmund,2 - 2,Heidenheim
+16-09-2023,Freiburg,? - ?,Dortmund
+20-08-2023,Ein Frankfurt,1 - 0,Darmstadt
+27-08-2023,Mainz,1 - 1,Ein Frankfurt
+03-09-2023,Ein Frankfurt,1 - 1,FC Koln
+16-09-2023,Bochum,? - ?,Ein Frankfurt
+19-08-2023,Dortmund,1 - 0,FC Koln
+26-08-2023,FC Koln,1 - 2,Wolfsburg
+03-09-2023,Ein Frankfurt,1 - 1,FC Koln
+16-09-2023,FC Koln,? - ?,Hoffenheim
+19-08-2023,Hoffenheim,1 - 2,Freiburg
+26-08-2023,Freiburg,1 - 0,Werder Bremen
+02-09-2023,Stuttgart,5 - 0,Freiburg
+16-09-2023,Freiburg,? - ?,Dortmund
+19-08-2023,Wolfsburg,2 - 0,Heidenheim
+26-08-2023,Heidenheim,2 - 3,Hoffenheim
+01-09-2023,Dortmund,2 - 2,Heidenheim
+17-09-2023,Heidenheim,? - ?,Werder Bremen
+19-08-2023,Hoffenheim,1 - 2,Freiburg
+26-08-2023,Heidenheim,2 - 3,Hoffenheim
+02-09-2023,Hoffenheim,3 - 1,Wolfsburg
+16-09-2023,FC Koln,? - ?,Hoffenheim
+19-08-2023,Leverkusen,3 - 2,RB Leipzig
+26-08-2023,M''gladbach,0 - 3,Leverkusen
+02-09-2023,Leverkusen,5 - 1,Darmstadt
+15-09-2023,Bayern Munich,? - ?,Leverkusen
+19-08-2023,Augsburg,4 - 4,M''gladbach
+26-08-2023,M''gladbach,0 - 3,Leverkusen
+02-09-2023,M''gladbach,1 - 2,Bayern Munich
+17-09-2023,Darmstadt,? - ?,M''gladbach
+20-08-2023,Union Berlin,4 - 1,Mainz
+27-08-2023,Mainz,1 - 1,Ein Frankfurt
+02-09-2023,Werder Bremen,4 - 0,Mainz
+16-09-2023,Mainz,? - ?,Stuttgart
+19-08-2023,Leverkusen,3 - 2,RB Leipzig
+25-08-2023,RB Leipzig,5 - 1,Stuttgart
+03-09-2023,Union Berlin,0 - 3,RB Leipzig
+16-09-2023,RB Leipzig,? - ?,Augsburg
+19-08-2023,Stuttgart,5 - 0,Bochum
+25-08-2023,RB Leipzig,5 - 1,Stuttgart
+02-09-2023,Stuttgart,5 - 0,Freiburg
+16-09-2023,Mainz,? - ?,Stuttgart
+20-08-2023,Union Berlin,4 - 1,Mainz
+26-08-2023,Darmstadt,1 - 4,Union Berlin
+03-09-2023,Union Berlin,0 - 3,RB Leipzig
+16-09-2023,Wolfsburg,? - ?,Union Berlin
+18-08-2023,Werder Bremen,0 - 4,Bayern Munich
+26-08-2023,Freiburg,1 - 0,Werder Bremen
+02-09-2023,Werder Bremen,4 - 0,Mainz
+17-09-2023,Heidenheim,? - ?,Werder Bremen
+19-08-2023,Wolfsburg,2 - 0,Heidenheim
+26-08-2023,FC Koln,1 - 2,Wolfsburg
+02-09-2023,Hoffenheim,3 - 1,Wolfsburg
+16-09-2023,Wolfsburg,? - ?,Union Berlin

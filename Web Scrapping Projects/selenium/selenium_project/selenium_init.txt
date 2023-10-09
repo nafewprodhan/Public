@@ -1,0 +1,23 @@
+import time
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import Select
+import pandas as pd
+
+options = webdriver.ChromeOptions()
+options.add_experimental_option("detach", True)
+driver = webdriver.Chrome(options=options, service=Service("chromedriver"))
+
+driver.get('http://www.linkedin.com/')
+time.sleep(1)
+driver.maximize_window()
+
+
+
+dictionary = {'company': name, 'website': website, 'phone': phone, 'industry': industry, 'size': size, 'location': location, 'founded': founded, 'specialities': specialities}
+df = pd.DataFrame(dictionary)
+df.to_csv('company_info.csv', index=False)
+
+driver.quit()
